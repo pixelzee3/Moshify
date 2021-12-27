@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pixelzee3/Moshify/issues"
   },
-  "homepage": "https://github.com/pixelzee3/Moshify#readme"
+  "homepage": "https://github.com/pixelzee3/Moshify#readme",
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
 }

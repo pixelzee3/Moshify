@@ -2,6 +2,8 @@
 /Moshify
 /.vscode
 playground.html
+dist
+.cache
 
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
@@ -51,3 +53,4 @@ _testmain.go
 #*.png
 #*.jpeg
 *.psd
+node_modules
