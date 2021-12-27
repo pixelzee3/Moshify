@@ -1,3 +1,5 @@
+@import './normalize.css';
+
 /* General */
 :root {
     box-sizing: border-box;
